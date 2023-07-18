@@ -4,7 +4,7 @@
  ### [Lab Questions](https://docs.google.com/document/d/1zgmqjl_vnNoyngWk0fODRsHNTvSRjkkx/edit)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+Project consists of multi-lan environment to configure and manage an FTP Server, An employer has asked you to set up a FTP server for users in the Guest network to access resources from the main LAN.
 <br />
 
 
@@ -24,29 +24,15 @@ Allow Rule for Port 21 and 990: <br/>
 <img src="https://i.imgur.com/68pawiz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Transfer Karen.txt file to server on PC2:  <br/>
+Log into Karen Account file PC2:  <br/>
 <img src="https://i.imgur.com/r9JgNoh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+TransferKaren.txt into jin Account: <br/>
+<img src="https://i.imgur.com/lM6OzrX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 
 <!--
  ```diff
