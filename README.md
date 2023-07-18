@@ -28,7 +28,7 @@ Log into Karen Account file PC2:  <br/>
 <img src="https://i.imgur.com/r9JgNoh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-TransferKaren.txt into jin Account: <br/>
+TransferKaren.txt into Jin Account: <br/>
 <img src="https://i.imgur.com/lM6OzrX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
